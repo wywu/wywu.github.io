@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: I am very interested in the practical application of AI technique in industry. In <a href='https://www.sensetime.com/en'>SenseTime Group Inc.</a>, I lead the development and research of SenseMARS Digital Human Platform, SenseMARS Content Generation Platform and SenseVideo Video Understanding Platform. These platforms offer services for dozens of customers, including banks, mobile internet companies, cosmetic companies and handset manufacturers.
+description: I am very interested in the practical application of AI technique in industry. In <a href='https://www.sensetime.com/en'>SenseTime Group Inc.</a>, I lead the development and research of SenseMARS Digital Human Platform, SenseMARS Content Generation Platform and SenseVideo Video Understanding Platform. These platforms serve for dozens of customers, including banks, mobile internet companies, cosmetic companies and handset manufacturers.
 nav: true
 nav_order: 3
 display_categories: []

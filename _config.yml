@@ -16,7 +16,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: milky-way.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://wayne-wu-53.github.io # the base hostname & protocol for your site
+url: https://wywu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -71,8 +71,8 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: 
-google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_analytics: G-4GRHT7MFBP # your google-analytics ID (format: UA-XXXXXXXXX)
+google_site_verification:  googlea477729bc8866235 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear an alytics site ID (format: XXXXXXXXX)
 
