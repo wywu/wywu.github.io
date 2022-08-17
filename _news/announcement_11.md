@@ -1,7 +1,8 @@
----
+<!-- ---
 layout: post
-date: 2022-07-04 12:00:00-0000
+date: 2022-05-10 12:00:00-0000
 inline: true
 ---
 
-**5** papers got accepted by ECCV 2022.
+2 papers got accepted by SIGGRAPH 2022 (1 journal-track and 1 conference-track paper).
+ -->

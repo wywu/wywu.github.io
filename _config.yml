@@ -70,7 +70,6 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-
 contact_note: 
 google_analytics: G-4GRHT7MFBP # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  googlea477729bc8866235 # your google-site-verification ID (Google Search Console)
@@ -117,7 +116,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 12
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
