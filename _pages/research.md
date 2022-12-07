@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: The central goal of my research is to explore a way to help people recreate and edit the digital world more easily. My research interests lie at the intersection of Computer Vision, Computer Graphics and XR. This page lists some representative works in <b>generative model</b> and <b>digital human</b>.
+description: One central goal of my research is to explore a way to help people re-create and edit the digital world more easily. My research interests lie at the intersection of Computer Vision, Computer Graphics and Machine Learning. This page lists some representative works in <b>generative model</b> and <b>digital human</b>.
 nav: true
 nav_order: 2
 display_categories: [generative model, digital human]
