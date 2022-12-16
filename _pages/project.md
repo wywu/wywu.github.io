@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: I am very interested in the practical application of AI technique in industry. In <a href='https://www.sensetime.com/en'>SenseTime Group Inc.</a>, I lead the development and research of the DigitalHuman and SenseBeauty product series in SenseMARS platform, as well as the SmartAlbum and BestMoment product series in SenseVideo platform. These wto platforms have served for dozens of customers, including banks, mobile internet companies, cosmetic companies and handset manufacturers.
+description: I am very interested in the practical application of AI techniques in industry. In <a href='https://www.sensetime.com/en'>SenseTime Group Inc.</a>, I lead the development and research of the DigitalHuman and SenseBeauty product series in SenseMARS platform, as well as the SmartAlbum and BestMoment product series in SenseVideo platform. These two platforms have served for dozens of customers, including banks, mobile internet companies, cosmetic companies and handset manufacturers. Based on the SenseMARS and SenseVideo platform, we have delivered more than 20 projects, which served more than 6,000,000 end users.
 nav: true
 nav_order: 3
 display_categories: []
