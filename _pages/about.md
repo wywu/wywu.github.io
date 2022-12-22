@@ -37,7 +37,7 @@ Previously, I obtained my PhD in the [BNRist Center](https://www.bnrist.tsinghua
 
 My research interests lie at the intersection of **Computer Vision**, **Computer Graphics** and **Machine Learning**, with focus on the generative model, digital human and video understanding.
 
-** **Job positions are open for researchers and interns at SenseTime and Shanghai AI Lab!** **
+** **Job positions are open for researchers and interns at Shanghai AI Lab!** **
 
 ** **Joint programs of PhD and PostDoc at NTU and HKUST are open!** **
 
