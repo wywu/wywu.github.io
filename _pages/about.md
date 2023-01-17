@@ -31,11 +31,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <p>Hey, thanks for stopping by! &#128516;</p>
 
-I am currently a research scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Dahua Lin](http://dahua.site/) and [Chen Qian](http://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), where I am leading the group of XR-Research.
-<!-- Previously, I was an Associate Director of R&D at [SenseTime Group Inc.](https://www.sensetime.com/en), working with [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Chen Qian](http://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), where I led the research and development of XR-Lab and SmartVideo Group. -->
-
-I obtained my PhD in the [BNRist Center](https://www.bnrist.tsinghua.edu.cn/bnristen/index.htm), Department of Computer Science and Technology at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of [Qiang Zhou](https://www.cs.tsinghua.edu.cn/csen/info/1161/4014.htm). During my PhD, I spent wonderful time as a visiting PhD student at [MMLab@NTU](https://www.mmlab-ntu.com/) at [Nanyang Technological University](https://www.ntu.edu.sg/) in 2019, advised by [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+I am currently a research scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Dahua Lin](http://dahua.site/) and [Chen Qian](http://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), where I am leading the group of XR-Research. Since 2019, I have been a visiting scholar at [MMLab@NTU](https://www.mmlab-ntu.com/) at [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+Previously, I was an Associate Director of R&D at [SenseTime Group Inc.](https://www.sensetime.com/en), working with [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), where I led the research and development of XR-Lab and SmartVideo Group.
+I obtained my PhD in the [BNRist Center](https://www.bnrist.tsinghua.edu.cn/bnristen/index.htm), Department of Computer Science and Technology at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 <!-- Prior to that, I joined [SenseTime Research](https://www.sensetime.com/en) as an intern in 2016. -->
+
 My research interests lie at the intersection of **Computer Vision**, **Computer Graphics** and **Machine Learning**, with focus on the generative model, digital human and video understanding.
 
 ** **Job positions are open for researchers and interns at Shanghai AI Lab!** **
