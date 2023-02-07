@@ -26,7 +26,7 @@ h3 {
 <h3>Academic Services</h3>
 <div>
     <ul>
-        <li>Conference Reviewer of CVPR, ICCV, ECCV, ICLR, NeurIPS, AAAI</li>
+        <li>Conference Reviewer of CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, AAAI</li>
         <li>Journal Reviewer of IJCV, TMM, TIP</li>
     </ul>    
 </div>
