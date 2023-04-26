@@ -45,12 +45,12 @@ h3 {
 <h3>Awards</h3>
 <div>
     <ul>
-		<li>Champion, Pre-training for Video Understanding Challenge, MM. 2021</li>
-		<li>First Runner-up, Webvision Challenge, CVPR. 2018</li>
-		<li>Future Star Award at SenseTime Research. 2018</li>
-		<li>Excellent Undergraduate of Beijing City. 2015</li>
-		<li>Student Outstanding Undergraduate Thesis. 2015</li>
-		<li>National Scholarship (top 1%). 2014</li>
+		<li>Champion, Pre-training for Video Understanding Challenge, MM 2021</li>
+		<li>First Runner-up, Webvision Challenge, CVPR 2018</li>
+		<li>Future Star Award at SenseTime Research, 2018</li>
+		<li>Excellent Undergraduate of Beijing City, 2015</li>
+		<li>Student Outstanding Undergraduate Thesis, 2015</li>
+		<li>National Scholarship (top 1%), 2014</li>
     </ul>
 </div>
 
