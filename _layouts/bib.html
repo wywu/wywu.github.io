@@ -53,7 +53,22 @@
             {%- else -%}
               {%- unless forloop.last -%}
                 {% if author_is_self %}
-                  <em>{{author.first}} {{author.last}}</em>,&nbsp;
+                  <em>{{author.first}} {{author.last}}</em>
+
+                  {%- if entry.ca == "true" %}
+                    {%- if entry.cfa == "true" %}
+                      *&#8224;,&nbsp;
+                    {%- else -%}
+                      &#8224;,&nbsp;
+                    {%- endif -%}
+                  {%- else -%}
+                    {%- if entry.cfa == "true" %}
+                      *,&nbsp;
+                    {%- else -%}
+                      ,&nbsp;
+                    {%- endif -%}
+                  {%- endif -%}
+
                 {%- else -%}
                   {% if coauthor_url -%}
                     <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
@@ -64,6 +79,10 @@
               {%- else -%}
                 {% if author_is_self -%}
                   and <em>{{author.first}} {{author.last}}</em>
+                  {%- if entry.ca == "true" %}
+                    &#8224;
+                  {%- else -%}
+                  {%- endif -%}
                 {% else -%}
                   {%- if coauthor_url -%}
                     and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>

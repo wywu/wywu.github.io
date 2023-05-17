@@ -58,8 +58,8 @@ h3 {
 <h3>Teaching</h3>
 <div>
     <ul>
-        <li>Teaching Assitant, Numerical Analysis, THU, 2018 Spring</li>
-        <li>Teaching Assitant, Combinatorial Mathematics, THU, 2016 Spring</li>
+        <li>Teaching Assitant, Numerical Analysis, Tsinghua University, Spring 2018</li>
+        <li>Teaching Assitant, Combinatorial Mathematics, Tsinghua University, Spring 2016</li>
     </ul>
 </div>
 
