@@ -31,7 +31,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- <p>Hey, thanks for stopping by! &#128516;</p> -->
 
-I am a Research Scientist at Shanghai AI Laboratory, working with [Dahua Lin](http://dahua.site/). Since 2019, I have been a Cooperative Researcher at [MMLab@NTU](https://www.mmlab-ntu.com/) at Nanyang Technological University, Singapore, working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). Previously, I was pleasure to work with [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Chen Qian](http://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN).
+I am a Research Scientist at Shanghai AI Laboratory, working with [Dahua Lin](http://dahua.site/). Since 2019, I have been a Cooperative Researcher at [MMLab@NTU](https://www.mmlab-ntu.com/) at Nanyang Technological University, Singapore, working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). Previously, I was also pleasant to work with [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Chen Qian](http://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN).
 <!-- Previously, I was a director of research and development at SenseTime Group Inc., working with [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Chen Qian](http://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN). -->
 <!-- , where I led the research and development of XR-Lab and SmartVideo Group. -->
 In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
