@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: Previously, the central goal of my research is to make Artificial Intelligence (AI) systems more and more usable. To ultimately achieve the usability of AI systems, my research focuses on the following two key directions. 1) Learning to perceive the real world to make the perceiving more effective with less supervision and 2) learning to generate/re-create the digital world to make the expressing easier with less human intervention. This page lists some representative work in <b>neural rendering</b>, <b>generative model</b>, <b>human generation</b>, and <b>human perceiving</b>.
+description: The central goal of my research is to make Artificial Intelligence (AI) systems more and more usable. To ultimately achieve the usability of AI systems, my research focuses on the following two key directions. 1) Learning to perceive the real world to make the perceiving more effective with less supervision and 2) learning to generate/re-create the digital world to make the expressing easier with less human intervention. This page lists some representative work in <b>neural rendering</b>, <b>generative model</b>, <b>human generation</b>, and <b>human perceiving</b>.
 nav: true
 nav_order: 2
 display_categories: [neural rendering, generative model, human generation, human perceiving]
