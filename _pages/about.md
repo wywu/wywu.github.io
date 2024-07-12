@@ -31,5 +31,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- <p>Hey, thanks for stopping by! &#128516;</p> -->
 
-I am a Research Scientist at University of California, Los Angeles, working with [Bolei Zhou](https://boleizhou.github.io/). Since 2017, I have been a cooperative researcher at MMLab, working closely with [Dahua Lin](http://dahua.site/) and [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University. From 2019 to 2020, I was pleasure to work with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) at Nanyang Technological University, Singapore. My research lies at the intersection of computer vision and computer graphics, especially in the digital human generation and simulation.
+I am a Research Scientist at University of California, Los Angeles, working with [Bolei Zhou](https://boleizhou.github.io/). Since 2017, I have been a cooperative researcher at MMLab, working closely with [Dahua Lin](http://dahua.site/) and [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University. From 2019 to 2020, I was pleasure to work with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) at Nanyang Technological University, Singapore.
+
+My research lies at the intersection of computer vision and computer graphics, especially in the human-centric exploration of generative foundation models and their infrastructures, including data and simulators.
+
+<!-- especially in the digital human generation and simulation. -->
 

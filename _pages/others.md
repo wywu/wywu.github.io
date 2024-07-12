@@ -35,6 +35,7 @@ h3 {
 <h3>Workshops and Challenges</h3>
 <div>
     <ul>
+        <li>Organizer of <a href="https://poets2024.github.io/">Workshop on Virtual Humans for Robotics and Autonomous Driving</a>, CVPR 2024</li>
         <li>Organizer of <a href="https://competitions.codalab.org/competitions/25228">DeeperForensics Challenge on Real-World Face Forgery Detection</a>, ECCV 2020</li>
         <li>Organizer of <a href="https://sense-human.github.io/">Workshop on Sensing, Understanding and Synthesizing Humans</a>, ECCV 2020</li>
         <li>Organizer of <a href="https://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_SDL-CV">Workshop on Statistical Deep Learning for Computer Vision</a>, ICCV 2019</li>
