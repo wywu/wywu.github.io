@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Project
-permalink: /project/
-description: I am very interested in the practical application of AI techniques in consumer products. From 2020 to 2022, I led the development and research of two product platforms in industry. Based on these two platforms, we delivered 20+ commercial projects, which served more than 10,000,000 end users.
+title: Industry
+permalink: /project/  
 nav: true
 nav_order: 3
 display_categories: []
@@ -11,7 +10,10 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
+  <p class="description-style">I am passionate about leveraging AI techniques to create impactful, real-world solutions in consumer products. Over five years in the industry, I served as an R&D director at <a href="https://www.sensetime.com/en">SenseTime</a>, where I led the Extended Reality Lab and Smart Video Group, working closely with <a href="https://www.sensetime.com/en/investor_corp_governance">Xiaogang Wang</a> and <a href="https://www.linkedin.com/in/keninqc/">Chen Qian</a>.
+  
+  During this time, I directed the development and research of AI models for two flagship product platforms -- <a href="https://www.sensetime.com/en/product-detail?categoryId=1163&gioNav=1">SenseMARS Agent</a> and <a href="https://www.sensetime.com/en/product-detail?categoryId=32326&gioNav=1">SenseVideo</a>. These platforms collectively powered solutions for over 20 business clients and reached more than 10 million end users worldwide.</p>
+  {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>

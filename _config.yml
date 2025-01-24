@@ -2,9 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Wayne (Wen-Yen) Wu # the website title (if blank, full name will be used instead)
+title: Wayne Wu # the website title (if blank, full name will be used instead)
 first_name: Wayne
-middle_name: (Wen-Yen)
+middle_name:
+# middle_name: (Wen-Yen)
 last_name: Wu
 email: wuwenyan0503@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

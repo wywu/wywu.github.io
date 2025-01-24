@@ -5,7 +5,7 @@ permalink: /dataset/
 description: 
 nav: true
 nav_order: 4
-display_categories: [face dataset, human dataset, object dataset]
+display_categories: [human dataset, face dataset, object dataset]
 horizontal: false
 ---
 

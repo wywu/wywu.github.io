@@ -8,31 +8,27 @@ permalink: /
 profile:
   align: right
   image: wayne_wu.jpg
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-<!-- 
+I am a Research Associate in the Department of Computer Science at the University of California, Los Angeles, working with [Bolei Zhou](https://boleizhou.github.io/).
+Previously, I served as a Research Scientist at Shanghai AI Lab, where I led the Virtual Human Group.
+I was also a Visiting Scholar at Nanyang Technological University, working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div class="research">
+  <h2>Research</h2>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+  <p>My research lies at the intersection of computer vision, computer graphics, and machine learning. My goal is to develop <strong>Human-centric Embodied AI Systems</strong> that promote urban mobility, safety, and accessibility, by addressing key challenges in <em>scalability</em> of agent learning environments, as well as <em>realism</em> and <em>situationality</em> of populated virtual humans. This effort is pursued through three primary directions:</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
- -->
+  <ul>
+    <li><strong>Scalable Embodied AI Simulators</strong>: Building <u>large-scale robot learning platforms</u> with diverse assets and infinite urban scenes, and enabling high-efficiency training, as in <a href="https://metadriverse.github.io/metaurban/">MetaUrban</a>, <a href="publication/">UrbanSim</a>, <a href="https://metadriverse.github.io/vid2sim/">Vid2Sim</a>, and <a href="https://omniobject3d.github.io/">OmniObject3D</a>.</li>
 
-<!-- **About** -->
+    <li><strong>Realistic Virtual Humans</strong>: Constructing <u>high-fidelity 4D volumetric capture systems and datasets</u>, as in <a href="https://dna-rendering.github.io/">DNA-Rendering</a>, and <a href="https://renderme-360.github.io/">RenderMe-360</a>; and developing <u>human foundation models</u> to obtain generalizable representations, as in <a href="https://cosmicman-cvpr2024.github.io/">CosmicMan</a> and <a href="https://motionbert.github.io/">MotionBert</a>.</li>
 
-<!-- <p>Hey, thanks for stopping by! &#128516;</p> -->
-
-I am a Research Scientist at the University of California, Los Angeles, working with [Bolei Zhou](https://boleizhou.github.io/). Since 2017, I have been a cooperative researcher at MMLab, working closely with [Dahua Lin](http://dahua.site/) and [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University. From 2019 to 2020, I was cheerful to work with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) at Nanyang Technological University, Singapore.
-
-My research lies at the intersection of computer vision and computer graphics, especially in the human-centric exploration of generative foundation models and their infrastructures, including data and simulation platforms.
-
-
+    <li><strong>Situational Motion Generation</strong>: Learning <u>context-aware generative models</u> of human motions and behaviors from diverse modalities -- including vision, audio, and language, as in <a href="https://genforce.github.io/PedGen/">PedGen</a>, <a href="publication/">EmbodiedHuman</a>, and <a href="https://wywu.github.io/projects/EBT/EBT.html">Everybody's Talkin'</a>.</li>
+  </ul>
+</div>

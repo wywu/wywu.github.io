@@ -23,18 +23,12 @@ h3 {
 </head>
 
 
-<h3>Academic Services</h3>
-<div>
-    <ul>
-        <li>Conference Reviewer of CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, SIGGRAPH Asia and AAAI</li>
-        <li>Journal Reviewer of IJCV, TMM and TIP</li>
-    </ul>    
-</div>
-
 
 <h3>Workshops and Challenges</h3>
 <div>
     <ul>
+        <li>Organizer of Workshop on Human-Centric Embodied AI and Autonomous Systems, CVPR 2025</li>
+        <li>Organizer of Workshop on Bridging the Gap between Neural Rendering and Robot Learning, CVPR 2025</li>
         <li>Organizer of <a href="https://poets2024.github.io/">Workshop on Virtual Humans for Robotics and Autonomous Driving</a>, CVPR 2024</li>
         <li>Organizer of <a href="https://competitions.codalab.org/competitions/25228">DeeperForensics Challenge on Real-World Face Forgery Detection</a>, ECCV 2020</li>
         <li>Organizer of <a href="https://sense-human.github.io/">Workshop on Sensing, Understanding and Synthesizing Humans</a>, ECCV 2020</li>
@@ -45,6 +39,8 @@ h3 {
 <h3>Teaching</h3>
 <div>
     <ul>
+        <li>Research Instructor, Engr87: Introduction to Engineering Disciplines, UCLA, Autumn 2024</li>
+        <li>Guest Instructor, CS269: Autonomous Agents and Foundation Models, UCLA, Spring 2024</li>
         <li>Co-Instructor, Advanced Computer Vision, Tsinghua University, Spring 2023</li>
         <li>Teaching Assitant, Numerical Analysis, Tsinghua University, Spring 2018</li>
         <li>Teaching Assitant, Combinatorial Mathematics, Tsinghua University, Spring 2016</li>
@@ -62,6 +58,14 @@ h3 {
 		<li>Student Outstanding Undergraduate Thesis, 2015</li>
 		<li>National Scholarship (top 1%), 2014</li>
     </ul>
+</div>
+
+<h3>Academic Services</h3>
+<div>
+    <ul>
+        <li>Conference Reviewer of CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, SIGGRAPH Asia and AAAI</li>
+        <li>Journal Reviewer of IJCV, TMM and TIP</li>
+    </ul>    
 </div>
 
 
