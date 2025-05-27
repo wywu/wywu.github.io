@@ -3,8 +3,7 @@
 <!-- _layouts/bib.html -->
       <div class="row">
 
-
-        <div class="col-sm-3">
+        <div class="col-sm-5">
           {%- if entry.video -%}
             <div class="pub-video-wrapper">
               <video 
@@ -30,9 +29,8 @@
           {%- endif -%}
         </div>
 
-
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-9">
+        <div id="{{entry.key}}" class="col-sm-7">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}

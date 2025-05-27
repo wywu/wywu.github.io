@@ -22,7 +22,7 @@ In June 2022, I obtained my PhD in the Department of Computer Science and Techno
 <div class="research">
   <h2>Research</h2>
 
-  <p>My research lies at the intersection of computer vision, computer graphics, and machine learning. My goal is to develop <strong>Human-centric Embodied AI Systems</strong> that promote urban mobility, safety, and accessibility, by addressing key challenges in <em>scalability</em> of agent learning environments, as well as <em>realism</em> and <em>situationality</em> of populated virtual humans. This effort is pursued through three primary directions:</p>
+  <p>My research lies at the intersection of computer vision, computer graphics, and robotics. My goal is to develop <strong>Human-centric Embodied AI Systems</strong> that promote urban mobility, safety, and accessibility, by addressing key challenges in <em>scalability</em> of agent learning environments, as well as <em>realism</em> and <em>situationality</em> of populated virtual humans. This effort is pursued through three primary directions:</p>
 
   <ul>
     <li><strong>Scalable Embodied AI Simulators</strong>: Building <u>large-scale robot learning platforms</u> with diverse assets and infinite urban scenes, and enabling high-efficiency training, as in <a href="https://metadriverse.github.io/metaurban/">MetaUrban</a>, <a href="publication/">UrbanSim</a>, <a href="https://metadriverse.github.io/vid2sim/">Vid2Sim</a>, and <a href="https://omniobject3d.github.io/">OmniObject3D</a>.</li>
