@@ -5,16 +5,29 @@
 
 
         <div class="col-sm-3">
-
-        {%- if entry.image -%}
-          {%- assign image_path = entry.image -%}
-          {% 
-            include figure.html 
-            path=image_path 
-            class="img-fluid z-dept-1 rounded"
-          -%}
-        {%- endif -%}
-
+          {%- if entry.video -%}
+            <div class="pub-video-wrapper">
+              <video 
+                src="{{ entry.video }}" 
+                class="pub-video"
+                preload="metadata"
+                muted
+                playsinline
+                autoplay
+                loop
+                onmouseover="this.setAttribute('controls', 'controls')" 
+                onmouseout="this.removeAttribute('controls')"
+                {% if entry.image %}poster="{{ entry.image }}"{% endif %}
+              ></video>
+            </div>
+          {%- elsif entry.image -%}
+            {%- assign image_path = entry.image -%}
+            {% 
+              include figure.html 
+              path=image_path 
+              class="img-fluid z-dept-1 rounded"
+            -%}
+          {%- endif -%}
         </div>
 
 
