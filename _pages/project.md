@@ -10,7 +10,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-  <p class="description-style">I am passionate about leveraging AI techniques to create impactful, real-world solutions in consumer products. Over five years in the industry, I served as an R&D director at <a href="https://www.sensetime.com/en">SenseTime</a>, where I led the Extended Reality Lab and Smart Video Group, working closely with <a href="https://www.sensetime.com/en/investor_corp_governance">Xiaogang Wang</a> and <a href="https://www.linkedin.com/in/keninqc/">Chen Qian</a>.
+  <p class="description-style">I am passionate about leveraging AI techniques to create impactful, real-world solutions in consumer products. Over five years in the industry, I served as an R&D director at <a href="https://www.sensetime.com/en">SenseTime</a>, where I led the Extended Reality Lab and Smart Video Group, working with <a href="https://www.sensetime.com/en/investor_corp_governance">Xiaogang Wang</a> and <a href="https://www.linkedin.com/in/keninqc/">Chen Qian</a>.
   
   During this time, I directed the development and research of AI models for two flagship product platforms -- <a href="https://www.sensetime.com/en/product-detail?categoryId=1163&gioNav=1">SenseMARS Agent</a> and <a href="https://www.sensetime.com/en/product-detail?categoryId=32326&gioNav=1">SenseVideo</a>. These platforms collectively powered solutions for over 20 business clients and reached more than 10 million end users worldwide.</p>
   {%- if site.enable_project_categories and page.display_categories %}
