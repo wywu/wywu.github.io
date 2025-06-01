@@ -179,6 +179,19 @@
           {%- endif %}
           </div>
 
+          {%- if entry.hightlight == "true" -%}
+            <span style="color: rgb(255, 60, 0); font-weight: bold; margin-left: 0.5em; display: inline-block; margin-top: 0.5em;">Highlight</span>
+          {%- endif -%}
+          {%- if entry.spotlight == "true" -%}
+            <span style="color: rgb(255, 60, 0); font-weight: bold; margin-left: 0.5em; display: inline-block; margin-top: 0.5em;">Spotlight</span>
+          {%- endif -%}
+          {%- if entry.oral == "true" -%}
+            <span style="color: rgb(255, 60, 0); font-weight: bold; margin-left: 0.5em; display: inline-block; margin-top: 0.5em;">Oral</span>
+          {%- endif -%}
+          {%- if entry.best_finalist == "true" -%}
+            <span style="color: rgb(255, 60, 0); font-weight: bold; margin-left: 0.5em; display: inline-block; margin-top: 0.5em;">Best Paper Candidate</span>
+          {%- endif -%}
+
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
