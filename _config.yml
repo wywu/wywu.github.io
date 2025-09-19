@@ -113,11 +113,17 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  talks:
+    defaults:
+      layout: post
+    output: true
+    permalink: /talks/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
 news_limit: 10
+talks_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -139,7 +145,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', '_talks']
 exclude:
   - bin
   - Gemfile

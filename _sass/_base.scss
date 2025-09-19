@@ -660,6 +660,7 @@ html.transition *:after {
   table {
     border-collapse: collapse;
     margin-bottom: 0;
+    table-layout: fixed;
     
     tr {
       margin: 0;
@@ -673,15 +674,98 @@ html.transition *:after {
       vertical-align: top;
       line-height: inherit; /* Inherit the tr line height */
       border: none !important;
+      width: auto !important;
     }
+  }
+  
+  /* Ensure consistent spacing */
+  .table-sm td {
+    padding: 0 !important;
+  }
+  
+  /* Override any Bootstrap table spacing */
+  .table-responsive {
+    margin-bottom: 0;
+  }
+  
+  .table {
+    margin-bottom: 0;
   }
 }
 
 /* Style for date in news section */
 .news {
+  table {
+    table-layout: fixed;
+  }
+  
   .date {
     white-space: nowrap;  /* Keep date on one line */
     padding-right: 0.5em !important;
+    width: 80px !important;
+  }
+  
+  .announcement {
+    padding-left: 0 !important;
+    width: auto !important;
+  }
+  
+  /* Override any Bootstrap table spacing */
+  .table-responsive {
+    margin-bottom: 0;
+  }
+  
+  .table {
+    margin-bottom: 0;
+  }
+}
+
+/* Reduce line spacing in Talks section */
+.talks {
+  table {
+    border-collapse: collapse;
+    margin-bottom: 0;
+    table-layout: fixed;
+    
+    tr {
+      margin: 0;
+      padding: 0;
+      line-height: 2; /* Keep your working line height */
+    }
+    
+    td {
+      padding: 0 !important; /* Force override padding */
+      margin: 0 !important;
+      vertical-align: top;
+      line-height: inherit; /* Inherit the tr line height */
+      border: none !important;
+      width: auto !important;
+    }
+  }
+  
+  /* Ensure consistent spacing */
+  .table-sm td {
+    padding: 0 !important;
+  }
+  
+  .date {
+    white-space: nowrap;  /* Keep date on one line */
+    padding-right: 0.5em !important;
+    width: 80px !important;
+  }
+  
+  .announcement {
+    padding-left: 0 !important;
+    width: auto !important;
+  }
+  
+  /* Override any Bootstrap table spacing */
+  .table-responsive {
+    margin-bottom: 0;
+  }
+  
+  .table {
+    margin-bottom: 0;
   }
 }
 
@@ -697,6 +781,7 @@ html.transition *:after {
 .publications,
 .projects,
 .news,
+.talks,
 article {
   max-width: 1100px !important;
   margin: 0 auto !important;
@@ -719,12 +804,12 @@ p {
 }
 
 /* Add line before section titles */
-.research h2, .news h2, .publications h2 {
+.research h2, .news h2, .talks h2, .publications h2 {
   position: relative;
   padding-top: 0.5rem; /* Space above the title */
 }
 
-.research h2::before, .news h2::before, .publications h2::before {
+.research h2::before, .news h2::before, .talks h2::before, .publications h2::before {
   content: '';
   position: absolute;
   top: 0;
