@@ -24,9 +24,10 @@ h3 {
 
 
 
-<h3>Workshops and Challenges</h3>
+<h3>Workshops, Tutorials and Challenges</h3>
 <div>
     <ul>
+        <li>Organizer of <a href="https://drivex-tutorial.github.io/">Tutorial on Beyond Self-Driving: Exploring Three Levels of Driving Automation</a>, ICCV 2025</li>
         <li>Organizer of <a href="https://real2simworkshop.github.io/">Workshop on Real-to-Sim: Bridging the Gap between Neural Rendering and Robot Learning</a>, CVPR 2025</li>
         <li>Organizer of <a href="https://poets2024.github.io/poets2025/">Workshop on Embodied “Humans”: Symbiotic Intelligence Between Virtual Humans and Humanoid Robots</a>, CVPR 2025</li>
         <li>Organizer of <a href="https://poets2024.github.io/">Workshop on Virtual Humans for Robotics and Autonomous Driving</a>, CVPR 2024</li>
@@ -39,6 +40,7 @@ h3 {
 <h3>Teaching</h3>
 <div>
     <ul>
+        <li>Guest Instructor, Neural Scene Representation and Neural Rendering, Upenn, Autumn 2025</li>
         <li>Guest Instructor, CS269: AI Agents and Foundation Models, UCLA, Spring 2025</li>
         <li>Research Instructor, Engr87: Introduction to Engineering Disciplines, UCLA, Autumn 2024</li>
         <li>Guest Instructor, CS269: Autonomous Agents and Foundation Models, UCLA, Spring 2024</li>
@@ -64,7 +66,8 @@ h3 {
 <h3>Academic Services</h3>
 <div>
     <ul>
-        <li>Conference Reviewer of CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, AAAI, and SIGGRAPH Asia</li>
+        <li>Area Chair of CVPR</li>
+        <li>Conference Reviewer of CVPR, ICCV, ICRA, ICLR, NeurIPS, ECCV, ICML, AAAI, and SIGGRAPH Asia</li>
         <li>Journal Reviewer of TPAMI, IJCV, TMM and TIP</li>
     </ul>    
 </div>
