@@ -54,7 +54,7 @@ h3 {
 <h3>Selected Honors</h3>
 <div>
     <ul>
-        <li>Chancellor’s Award Nomination at UCLA, 2025</li>
+        <li>Chancellor’s Award at UCLA, 2025</li>
         <li>Best Paper Candidate at CVPR, 2023</li>
 		<li>Champion, Pre-training for Video Understanding Challenge at MultiMedia, 2022</li>
         <li>First Runner-up, Webvision Challenge at CVPR, 2018</li>

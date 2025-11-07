@@ -122,7 +122,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 10
+news_limit: 11
 talks_limit: 10
 
 # -----------------------------------------------------------------------------
