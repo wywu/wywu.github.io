@@ -54,13 +54,13 @@ h3 {
 <h3>Selected Honors</h3>
 <div>
     <ul>
-        <li>Chancellor’s Award at UCLA, 2025</li>
+        <li>Chancellor’s Award at UCLA (8/1400, the first awardee in CS department in the past five years), 2025</li>
         <li>Best Paper Candidate at CVPR, 2023</li>
 		<li>Champion, Pre-training for Video Understanding Challenge at MultiMedia, 2022</li>
         <li>First Runner-up, Webvision Challenge at CVPR, 2018</li>
 		<li>Excellent Undergraduate of Beijing City, 2015</li>
 		<li>Student Outstanding Undergraduate Thesis, 2015</li>
-		<li>National Scholarship (top 1%), 2014</li>
+		<li>National Scholarship (1/126 in CS department), 2014</li>
     </ul>
 </div>
 
