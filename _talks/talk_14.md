@@ -6,4 +6,3 @@ inline: true
 
 Tutorial, "Scaling Physical AI via Structured World Simulators", @ <a href="https://drivex-tutorial.github.io/">DriveX Tutorial @ ICCV 2025</a>.
 
-
