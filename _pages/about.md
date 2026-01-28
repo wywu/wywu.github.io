@@ -31,7 +31,7 @@ In June 2022, I obtained my PhD in the Department of Computer Science and Techno
 <div class="research">
   <h2>Research</h2>
 
-  <p>My research lies at the intersection of computer vision, computer graphics, and robotics. I aim to develop <strong style="color: rgb(255, 60, 0);">human-centric physical AI systems</strong> capable of perceiving, understanding, and interacting with real-world environments populated by humans. To advance this vision, I address key challenges in the <em>scalability</em> of robot learning environments, the <em>situational awareness</em> of agents, and the <em>realism</em> of populated virtual humans. My work explores three primary directions:</p>
+  <p>My research lies at the intersection of computer vision, robotics and computer graphics. I aim to develop <strong style="color: rgb(255, 60, 0);">human-centric physical AI systems</strong> capable of perceiving, understanding, and interacting with real-world environments populated by humans. To advance this target, I address key challenges in the <em>scalability</em> of robot learning environments, the <em>situational awareness</em> of agents, and the <em>realism</em> of populated virtual humans. My work explores three primary directions:</p>
 
   <ul>
     <li><strong>Scalable World Simulators</strong>: Developing <u>large-scale robot learning platforms</u> with diverse assets and infinite urban scenes, and enabling high-efficiency robot training, as in <a href="https://metadriverse.github.io/metaurban/">MetaUrban</a>, <a href="publication/">URBAN-SIM</a>, <a href="https://metadriverse.github.io/vid2sim/">Vid2Sim</a>, and <a href="https://omniobject3d.github.io/">OmniObject3D</a>.</li>
