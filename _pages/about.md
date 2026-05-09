@@ -18,7 +18,6 @@ social: false  # includes social icons at the bottom of the page
 I am a Postdoc at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working with [Bolei Zhou](https://boleizhou.github.io/).
 I also have the pleasure of collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
 <!-- I am a Postdoctoral Researcher in [VAIL @ UCLA](https://vail-ucla.github.io/) and [SVL @ Stanford](https://svl.stanford.edu/) (visiting), where I work with [Bolei Zhou](https://boleizhou.github.io/) and [Jiajun Wu](https://jiajunwu.com/). -->
-Previously, I served as a Research Scientist at Shanghai AI Lab, where I led the Virtual Human Group, working with [Dahua Lin](http://dahua.site/).
 I was a Visiting PhD at Nanyang Technological University (NTU), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
 
