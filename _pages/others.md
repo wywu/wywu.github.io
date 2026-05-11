@@ -40,10 +40,12 @@ h3 {
 <h3>Teaching</h3>
 <div>
     <ul>
-        <li>Guest Instructor, Neural Scene Representation and Neural Rendering, Upenn, Autumn 2025</li>
-        <li>Guest Instructor, CS269: AI Agents and Foundation Models, UCLA, Spring 2025</li>
-        <li>Research Instructor, Engr87: Introduction to Engineering Disciplines, UCLA, Autumn 2024</li>
-        <li>Guest Instructor, CS269: Autonomous Agents and Foundation Models, UCLA, Spring 2024</li>
+        <li>Guest Instructor, EECS 542: Advanced Topics in Computer Vision, UMich, Winter 2026</li>
+        <li>Guest Instructor, CS 269: Physical AI, UCLA, Spring 2026</li>
+        <li>Guest Instructor, CIS 7000, Neural Scene Representation and Neural Rendering, Upenn, Autumn 2025</li>
+        <li>Guest Instructor, CS 269: AI Agents and Foundation Models, UCLA, Spring 2025</li>
+        <li>Research Instructor, Engr 87: Introduction to Engineering Disciplines, UCLA, Autumn 2024</li>
+        <li>Guest Instructor, CS 269: Autonomous Agents and Foundation Models, UCLA, Spring 2024</li>
         <li>Co-Instructor, Advanced Computer Vision, THU, Spring 2023</li>
         <li>Teaching Assitant, Numerical Analysis, THU, Spring 2018</li>
         <li>Teaching Assitant, Combinatorial Mathematics, THU, Spring 2016</li>

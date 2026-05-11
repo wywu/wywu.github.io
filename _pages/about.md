@@ -15,11 +15,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoc at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working with [Bolei Zhou](https://boleizhou.github.io/).
-I also have the pleasure of collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
+I am a Postdoc at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working closely with [Bolei Zhou](https://boleizhou.github.io/), and collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
 <!-- I am a Postdoctoral Researcher in [VAIL @ UCLA](https://vail-ucla.github.io/) and [SVL @ Stanford](https://svl.stanford.edu/) (visiting), where I work with [Bolei Zhou](https://boleizhou.github.io/) and [Jiajun Wu](https://jiajunwu.com/). -->
+<!-- Previously, I served as a Research Scientist at Shanghai AI Lab, where I led the Virtual Human Group, working with [Dahua Lin](http://dahua.site/). -->
 I was a Visiting PhD at Nanyang Technological University (NTU), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
+
+
+My research has been recognized by the UCLA Chancellor’s Award, a CVPR Best Paper Candidate recognition, and multiple Oral/Highlight/Spotlight presentations at top-tier conferences, including CVPR, ICLR, and NeurIPS. My work has been widely featured by media outlets such as VentureBeat, Vice, MarkTechPost, and Weights & Biases. I also bring over seven years of industry experience, where I led teams of 25 researchers to deliver large-scale AI products serving 10M+ end users. My work has further generated broader community impact through open-source projects with 12K+ GitHub stars and datasets with 100K+ downloads.
+
 
 <!-- *Feel free to email me if you want to collaborate.* -->
 
@@ -53,5 +57,11 @@ In June 2022, I obtained my PhD in the Department of Computer Science and Techno
 .research-slogan em {
   color: rgb(255, 60, 0) !important;
   font-weight: bold !important;
+}
+
+@media (min-width: 576px) {
+  .research-slogan {
+    margin-right: 30%;
+  }
 }
 </style>
