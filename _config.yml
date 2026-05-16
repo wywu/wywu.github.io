@@ -123,7 +123,16 @@ collections:
     permalink: /projects/:path/
 
 news_limit: 12
-talks_limit: 12
+talks_limit: 50
+
+# Optional YouTube embed URL (use /embed/VIDEO_ID) shown above Recent Talks on About.
+# Featured talk video width: col-sm-6 overridden to 53% of content row. Leave blank to hide.
+talks_featured_video: "https://www.youtube.com/embed/BC0sxygS50o"
+talks_featured_video_title: "From Scaling up to Scaling out: Reality World Simulators for Physical AI"
+talks_featured_video_date: "[May 2026]"
+talks_featured_video_caption: "UMich EECS 542: Advanced Topics in Computer Vision"
+talks_featured_video_caption_url: "https://web.eecs.umich.edu/~stellayu/teach/2023vision/index.html"
+talks_featured_video_slides: "https://drive.google.com/file/d/1eS1ijuwgOrZOvX5Dw1tSjjmne0mIM2GC/view?usp=sharing"
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

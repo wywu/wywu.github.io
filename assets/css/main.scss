@@ -29,3 +29,62 @@ $max-content-width: {{ site.max_width }};
   display: block;
   background: #000;
 }
+
+/* Featured YouTube above talks — col-sm-6 at 53% row width */
+/* Softer than section h2 rules (same 1px weight, lower-contrast color = reads thinner) */
+.talk-featured-video-section {
+  border-top: 1px solid color-mix(in srgb, var(--global-divider-color) 38%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--global-divider-color) 38%, transparent);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+}
+.talk-featured-video-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0 0 0.35rem 0;
+  color: var(--global-text-color);
+}
+.talk-featured-video-caption {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  margin: 0 0 0.85rem 0;
+  color: var(--global-text-color-secondary, var(--global-text-color));
+  .talk-featured-video-date {
+    color: var(--global-text-color);
+  }
+  a {
+    color: var(--global-theme-color);
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: underline;
+    }
+  }
+}
+.talk-featured-video-row {
+  margin-bottom: 0;
+  > .col-sm-6 {
+    @media (min-width: 576px) {
+      flex: 0 0 53%;
+      max-width: 53%;
+    }
+  }
+}
+.talk-featured-video-wrapper {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #000;
+  position: relative;
+}
+.talk-featured-video-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

@@ -1,5 +1,44 @@
           <div class="talks">
             <h2>Recent Talks and Lectures</h2>
+            {% if site.talks_featured_video != blank -%}
+            <div class="talk-featured-video-section">
+            {% if site.talks_featured_video_title != blank %}
+            <h3 class="talk-featured-video-title">{{ site.talks_featured_video_title }}</h3>
+            {% endif %}
+            {% if site.talks_featured_video_date != blank or site.talks_featured_video_caption != blank or site.talks_featured_video_slides != blank %}
+            <p class="talk-featured-video-caption">
+              {% if site.talks_featured_video_date != blank %}
+              <span class="talk-featured-video-date">{{ site.talks_featured_video_date }}</span>
+              {% endif %}
+              {% if site.talks_featured_video_caption != blank %}
+                {% if site.talks_featured_video_caption_url != blank %}
+                  {% if site.talks_featured_video_date != blank %} · {% endif %}
+                  <a href="{{ site.talks_featured_video_caption_url }}">{{ site.talks_featured_video_caption }}</a>
+                {% else %}
+                  {% if site.talks_featured_video_date != blank %} · {% endif %}
+                  {{ site.talks_featured_video_caption }}
+                {% endif %}
+              {% endif %}
+              {% if site.talks_featured_video_slides != blank %}
+              <br><a href="{{ site.talks_featured_video_slides }}">Slides</a>
+              {% endif %}
+            </p>
+            {% endif %}
+            <div class="row talk-featured-video-row">
+              <div class="col-sm-6">
+                <div class="talk-featured-video-wrapper">
+                  <iframe
+                    class="talk-featured-video-iframe"
+                    src="{{ site.talks_featured_video }}"
+                    title="{{ site.talks_featured_video_title | default: 'Featured talk video' | escape }}"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen
+                    loading="lazy"></iframe>
+                </div>
+              </div>
+            </div>
+            </div>
+            {%- endif %}
             {% if site.talks != blank -%} 
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
