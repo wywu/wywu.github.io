@@ -15,11 +15,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+
+
+
+
+
+
+<!-- I am an AI researcher at [NVIDIA](https://www.nvidia.com/en-us/research/) and [Stanford](https://www.stanford.edu/), working on building general physical intelligence.
+
+Previously, I was a Technical Lead and Research Scientist at [Shanghai AI Laboratory](https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4/about/), where I led the Virtual Human Group.
+I was also a Director of R&D at [SenseTime Group Inc.](https://www.sensetime.com/en), where I led the Extended Reality (XR) Lab and Smart Video Group.
+In academia, I was a postdoc in the Department of Computer Science at the [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/), collaborating with [Bolei Zhou](https://boleizhou.github.io/) (UCLA CS) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS).
+Earlier, I was a Visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/computing), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+I received my Ph.D. from the Department of Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/csen/). -->
+
+
+
 I am a Postdoc at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working closely with [Bolei Zhou](https://boleizhou.github.io/), and collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
-<!-- I am a Postdoctoral Researcher in [VAIL @ UCLA](https://vail-ucla.github.io/) and [SVL @ Stanford](https://svl.stanford.edu/) (visiting), where I work with [Bolei Zhou](https://boleizhou.github.io/) and [Jiajun Wu](https://jiajunwu.com/). -->
-<!-- Previously, I served as a Research Scientist at Shanghai AI Lab, where I led the Virtual Human Group, working with [Dahua Lin](http://dahua.site/). -->
 I was a Visiting PhD at Nanyang Technological University (NTU), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
-In June 2022, I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
+I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
 
 
 My research has been recognized by the UCLA Chancellor’s Award, a CVPR Best Paper Candidate recognition, and multiple Oral/Highlight/Spotlight presentations at top-tier conferences, including CVPR, ICLR, and NeurIPS. My work has been widely featured by media outlets such as VentureBeat, Vice, MarkTechPost, and Weights & Biases. I also bring over seven years of industry experience, where I led teams of 25 researchers to deliver large-scale AI products serving 10M+ end users. My work has further generated broader community impact through open-source projects with 12K+ GitHub stars and datasets with 100K+ downloads.
