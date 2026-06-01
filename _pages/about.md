@@ -31,7 +31,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at [T
 
 
 
-I am a Postdoc at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working closely with [Bolei Zhou](https://boleizhou.github.io/), and collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
+I am an AI Researcher at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working closely with [Bolei Zhou](https://boleizhou.github.io/), and collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
 I was a Visiting PhD at Nanyang Technological University (NTU), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
 
