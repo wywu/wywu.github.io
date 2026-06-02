@@ -31,9 +31,9 @@ I received my Ph.D. from the Department of Computer Science and Technology at [T
 
 
 
-I am an AI Researcher at [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/) at the University of California, Los Angeles (UCLA), working closely with [Bolei Zhou](https://boleizhou.github.io/), and collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
-I was a Visiting PhD at Nanyang Technological University (NTU), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
-I obtained my PhD in the Department of Computer Science and Technology at Tsinghua University.
+I am an AI Researcher in the Department of Computer Science at the [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/), working with [Bolei Zhou](https://boleizhou.github.io/), and collaborating with [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA CEE).
+I was a Visiting PhD at [Nanyang Technological University](https://www.ntu.edu.sg/computing), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+I received my Ph.D. from the Department of Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/csen/).
 
 
 My research has been recognized by the UCLA Chancellor’s Award, a CVPR Best Paper Candidate recognition, and multiple Oral/Highlight/Spotlight presentations at top-tier conferences, including CVPR, ICLR, and NeurIPS. My work has been widely featured by media outlets such as VentureBeat, Vice, MarkTechPost, and Weights & Biases. I also bring over seven years of industry experience, where I led teams of 25 researchers to deliver large-scale AI products serving 10M+ end users. My work has further generated broader community impact through open-source projects with 12K+ GitHub stars and datasets with 100K+ downloads.
