@@ -191,6 +191,9 @@
           {%- if entry.best_finalist == "true" -%}
             <span style="color: rgb(255, 60, 0); font-weight: bold; margin-left: 0.5em; display: inline-block; margin-top: 0.5em;">Best Paper Candidate</span>
           {%- endif -%}
+          {%- if entry.achievement -%}
+            <span class="single-achievement-label">{{ entry.achievement }}</span>
+          {%- endif -%}
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->

@@ -552,6 +552,32 @@ footer.sticky-bottom {
           }
         }
       }
+      .single-achievement-label {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        width: fit-content;
+        margin-top: 0.5rem;
+        margin-left: 0.5rem;
+        padding: 0.25rem 0.65rem;
+        border: 1px solid var(--global-divider-color);
+        border-radius: 999px;
+        background-color: var(--global-card-bg-color);
+        color: var(--global-text-color);
+        font-size: 0.8rem;
+        font-weight: 600;
+        line-height: 1.2;
+        white-space: nowrap;
+
+        &::before {
+          content: "";
+          width: 0.4rem;
+          height: 0.4rem;
+          flex: none;
+          border-radius: 50%;
+          background-color: var(--global-theme-color);
+        }
+      }
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
@@ -818,4 +844,3 @@ p {
   height: 1px;
   background-color: var(--global-divider-color);
 }
-

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Others/
-title: Others
+title: Misc
 description: 
 nav: true
 nav_order: 6
@@ -70,6 +70,7 @@ h3 {
 <div>
     <ul>
         <li>Area Chair of CVPR</li>
+        <li>Senior Program Committee of AAAI</li>
         <li>Conference Reviewer of CVPR, ICCV, ICRA, ICLR, NeurIPS, ECCV, ICML, AAAI, and SIGGRAPH Asia</li>
         <li>Journal Reviewer of TPAMI, IJCV, TMM and TIP</li>
     </ul>    

@@ -21,11 +21,11 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-<!-- I am an AI researcher at [NVIDIA](https://www.nvidia.com/en-us/research/) and [Stanford](https://www.stanford.edu/), working on building general physical intelligence.
+<!-- I will be joining [NVIDIA](https://www.nvidia.com/en-us/research/), working on building General Physical Intelligence (GPI).
 
 Previously, I was a Technical Lead and Research Scientist at [Shanghai AI Laboratory](https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4/about/), where I led the Virtual Human Group.
 I was also a Director of R&D at [SenseTime Group Inc.](https://www.sensetime.com/en), where I led the Extended Reality (XR) Lab and Smart Video Group.
-In academia, I was a postdoc in the Department of Computer Science at the [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/), collaborating with [Bolei Zhou](https://boleizhou.github.io/) (UCLA CS) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS).
+In academia, I was a Postdoc in the Department of Computer Science at the [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/), collaborating with [Bolei Zhou](https://boleizhou.github.io/) (UCLA CS) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley EECS).
 Earlier, I was a Visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/computing), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 I received my Ph.D. from the Department of Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/csen/). -->
 
