@@ -69,7 +69,7 @@ h3 {
 <h3>Academic Services</h3>
 <div>
     <ul>
-        <li>Area Chair of CVPR and ICLR</li>
+        <li>Area Chair of CVPR</li>
         <li>Senior Program Committee of AAAI</li>
         <li>Conference Reviewer of CVPR, ICCV, ICRA, ICLR, NeurIPS, ECCV, ICML, AAAI, and SIGGRAPH Asia</li>
         <li>Journal Reviewer of TPAMI, IJCV, TMM and TIP</li>
