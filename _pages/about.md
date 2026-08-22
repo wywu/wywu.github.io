@@ -36,7 +36,7 @@ I was a Visiting PhD at [MMLab, Nanyang Technological University](https://www.mm
 I received my Ph.D. from the Department of Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/csen/).
 
 
-My research has been recognized by the UCLA Chancellor’s Award, a CVPR Best Paper Candidate recognition, and multiple Oral/Highlight/Spotlight presentations at top-tier conferences, including CVPR, ICLR, and NeurIPS. My work has been widely featured by media outlets such as VentureBeat, Vice, MarkTechPost, and Weights & Biases. I also bring over seven years of experience in a leading AI startup, where I led a 40+ person R&D team to deliver large-scale AI products serving 10M+ end users. My work has further generated broader community impact through open-source projects with 12K+ GitHub stars and datasets with 100K+ downloads.
+My research has been recognized by the UCLA Chancellor’s Award, a CVPR Best Paper Candidate recognition, and multiple Oral/Highlight/Spotlight presentations at top-tier conferences, including CVPR, ICLR, and NeurIPS. I also bring over seven years of experience in a leading AI startup, where I led a 40+ person R&D team to deliver large-scale AI products serving 10M+ end users. My work has been widely featured by media outlets such as VentureBeat, Vice, MarkTechPost, and Weights & Biases.  My work has further generated broader community impact through open-source projects with 12K+ GitHub stars and datasets with 100K+ downloads.
 
 
 <!-- *Feel free to email me if you want to collaborate.* -->
