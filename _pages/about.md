@@ -31,7 +31,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at [T
 
 
 
-I am an AI Researcher in the Department of Computer Science at the [University of California, Los Angeles](https://www.cs.ucla.edu/), collaborating with [Bolei Zhou](https://boleizhou.github.io/) (UCLA VAIL), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley BAIR) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA Mobility-Lab).
+I am an AI Researcher in the Department of Computer Science at the [University of California, Los Angeles](https://www.cs.ucla.edu/), collaborating with [Bolei Zhou](https://boleizhou.github.io/) (UCLA VAIL), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (UC Berkeley BAIR) and [Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) (UCLA Mobility-Lab). I also collaborate with [COCO Robotics](https://www.cocodelivery.com/), a Sam Altman-backed last-mile delivery robotics startup, on real-world food-delivery applications.
 I was a Visiting PhD at [MMLab, Nanyang Technological University](https://www.mmlab-ntu.com/), working with [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 I received my Ph.D. from the Department of Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/csen/), with a two-year leave to work at a startup.
 
