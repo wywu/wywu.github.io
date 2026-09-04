@@ -122,7 +122,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 13
+news_limit: 14
 talks_limit: 50
 
 # Optional YouTube embed URL (use /embed/VIDEO_ID) shown above Recent Talks on About.
